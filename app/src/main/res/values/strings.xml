@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kodi Android TV Installer</string>
+    <string name="welcome_message">Welcome to the Kodi Android TV Installer!</string>
+</resources>
